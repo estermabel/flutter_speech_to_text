@@ -1,17 +1,29 @@
-# speech_to_text
 
-A new Flutter project.
+# Flutter Speech to Text
 
-## Getting Started
+A simple app that captures your voice, identifies what was said and transcribes it on screen so you can read it.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Showcase
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Vídeo do YouTube – 2](https://user-images.githubusercontent.com/51540772/129259730-38ba709e-19b5-4019-b8da-7c3854b83252.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_speech_to_text
+
+  
+## Features
+
+- Knolowdges your voice
+- Transcribes to text whatever you say
+
+
+  
+## Acknowledgements
+
+This was a project made from a tutorial made by [Marcus Ng](https://www.youtube.com/watch?v=wDWoD1AaLu8).
+
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
